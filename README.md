@@ -12,6 +12,9 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
+### Project Fun Level Rating
+This project is a fun way to learn Python and Git!
+
 ### Credits
 data files are provided by Motivate https://www.motivateco.com/
 
