@@ -16,5 +16,5 @@ washington.csv
 This project is a fun way to learn Python and Git!
 
 ### Credits
-data files are provided by Motivate https://www.motivateco.com/
+data files are provided by [Motivate](https://www.motivateco.com/)
 
